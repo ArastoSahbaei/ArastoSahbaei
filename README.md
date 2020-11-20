@@ -1,4 +1,4 @@
-### Hi there, I'm Arasto! 👋
+ <h1 align="center"> Hi there, I'm Arasto! 👋 </h1>
 
  <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
