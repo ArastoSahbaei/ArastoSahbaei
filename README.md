@@ -85,10 +85,11 @@
  
  
  
-  ### Kurser på svenska 
+ <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-united-kingdom_1f1ec-1f1e7.png" /> Kurser på svenska</h3>
+ 
 [<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] [Handledning i React!](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
 
-[<img align="center" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodePlaylist] [Bygg ett backend REST_API med Node.js/Express/MongoDB/Mongoose](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
+[<img align="center" alt="Node" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-sweden_1f1f8-1f1ea.png" />][nodePlaylist] [Bygg ett backend REST_API med Node.js/Express/MongoDB/Mongoose](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
  </div>
 
 
