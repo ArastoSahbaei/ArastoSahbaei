@@ -76,10 +76,10 @@
 
 
 <div align="center">
-<span align="center"> 
  
- ### Kurser på svenska 
-
+  ### Kurser på svenska 
+ 
+<span align="center"> 
 [<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] [Handledning i React!](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
 
 [<img align="center" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodePlaylist] [Bygg ett backend REST_API med Node.js/Express/MongoDB/Mongoose](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
