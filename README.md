@@ -42,16 +42,12 @@
 
 ---
 
-
-Courses in english
-<img align="left" alt="React" width="26px" src="https://s.w.org/images/core/emoji/12.0.0-1/svg/1f1ec-1f1e7.svg" />
-
 ### 📺 My programming courses! :star2:
 
 Courses in english
 <img align="left" alt="React" width="26px" src="https://s.w.org/images/core/emoji/12.0.0-1/svg/1f1ec-1f1e7.svg" /> <br/>
 
-TBA
+<span align="center">TBA<span/>
 
 
 <hr />
