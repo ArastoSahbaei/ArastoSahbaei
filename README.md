@@ -2,7 +2,7 @@
 
  <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
-<p align="center" - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! </p>
+<p align="center"> - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! </p>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
