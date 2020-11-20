@@ -44,12 +44,22 @@
 
 
 Kurser på svenska
-[<img align="left" alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" />]
+<img align="left" alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" />
 
 Courses in english
 <img align="left" alt="React" width="26px" src="https://s.w.org/images/core/emoji/12.0.0-1/svg/1f1ec-1f1e7.svg" />
 
 ### 📺 My programming courses! :star2:
+
+Courses in english
+<img align="left" alt="React" width="26px" src="https://s.w.org/images/core/emoji/12.0.0-1/svg/1f1ec-1f1e7.svg" /> <br/>
+
+TBA
+
+
+<hr />
+Kurser på svenska
+<img align="left" alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" />
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] [Learn React!](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
 
