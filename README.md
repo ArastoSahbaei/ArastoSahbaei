@@ -75,15 +75,10 @@
 
 
 
-<hr /> <br/>
-
+<br/>
 
 <div align="center">
- 
-
 <span align="center"> 
- 
- 
  
  <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-sweden_1f1f8-1f1ea.png" /> Kurser på svenska</h3>
  
