@@ -42,7 +42,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 My programming courses! :star2:
 
 <!-- YOUTUBE:START -->
 - [Best Explanation of JavaScript Null vs Undefined! #shorts](https://www.youtube.com/watch?v=fCGswW7fruY)
