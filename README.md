@@ -63,7 +63,7 @@ Kurser på svenska
 
 
  <h5 align="center"> Kurser på svenska
-<img align="left" alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" /> </h5>
+<img alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" /> </h5>
 
 
 ➡️ [more videos...](https://www.youtube.com/user/Arrezzz/featured?view_as=subscriber)
