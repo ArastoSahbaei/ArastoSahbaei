@@ -42,6 +42,8 @@
 
 ---
 
+English
+Swedish
 [<img align="left" alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" />]
 
 ### 📺 My programming courses! :star2:
