@@ -64,7 +64,10 @@
 
 <div align="center">
  
-### Courses in english
+### 
+
+ <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Courses in english :star2: </h3>
+
 <span align="center">TBA<span/>
 
  </div>
