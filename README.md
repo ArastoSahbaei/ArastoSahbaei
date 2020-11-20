@@ -1,5 +1,7 @@
  <h1 align="center"> Hi there, I'm Arasto! 👋 </h1>
 
+
+<!--
  <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
 <p align="center"> - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! </p>
@@ -17,7 +19,7 @@
 [<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+-->
 
 
 
