@@ -51,12 +51,7 @@
 <br />
 <br />
 
-Kurser på svenska
-<img align="left" alt="React" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-sweden_1f1f8-1f1ea.png" /> <br/>
-</span> <br/>
-
-
-### 📺 My programming courses! :star2:
+<H3 align="center> 📺 My programming courses! :star2: </h3>
 
 
 <hr/>
