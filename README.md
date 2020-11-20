@@ -87,7 +87,7 @@ Kurser på svenska
  </div>
 
 
-➡️ [more videos...](https://www.youtube.com/user/Arrezzz/featured?view_as=subscriber)
+<!-- ➡️ [more videos...](https://www.youtube.com/user/Arrezzz/featured?view_as=subscriber) -->
 
 [youtube]: https://youtube.com/codeSTACKr
 [nodePlaylist]: https://www.youtube.com/watch?v=-rToCU-vQLM&list=PLo-BJUIALMg_twGJ5IjJIUpXqZH-ULmx0
