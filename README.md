@@ -1,6 +1,6 @@
 ### Hi there, I'm Arasto! 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+ <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
