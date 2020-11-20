@@ -55,10 +55,14 @@
 ### 📺 My programming courses! :star2:
 
 
+<hr/>
 
 
+
+<div align="center">
 Courses in english
 <img align="left" alt="React" width="26px" src="https://s.w.org/images/core/emoji/12.0.0-1/svg/1f1ec-1f1e7.svg" /> <br/>
+ </div>
 
 <span align="center">TBA<span/>
 
