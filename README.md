@@ -53,8 +53,8 @@
 
 
 
-<h3> 📺 My programming courses! :star2: </h3>
- <h3 align="center"> My programming courses! 👋 </h3>
+
+ <h3 align="center"> 📺 My programming courses! :star2: </h3>
 
 
 <hr/>
