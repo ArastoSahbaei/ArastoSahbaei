@@ -66,7 +66,7 @@
  
 ### 
 
- <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-united-kingdom_1f1ec-1f1e7.png" /> Courses in english :star2: </h3>
+ <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-united-kingdom_1f1ec-1f1e7.png" /> Courses in english</h3>
 
 <span align="center">TBA<span/>
 
