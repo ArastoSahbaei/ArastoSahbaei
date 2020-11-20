@@ -79,7 +79,9 @@ Kurser på svenska
 </span> <br/>
 
 
-<h5 align="center"> Kurser på svenska </h5> <br/>
+### Kurser på svenska 
+
+<br/>
 
 [<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] [Learn React!](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
 
