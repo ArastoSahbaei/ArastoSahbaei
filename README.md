@@ -74,9 +74,10 @@
 <br/>
 
 <div align="center">
+  <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-sweden_1f1f8-1f1ea.png" /> Kurser på svenska</h3>
 <span align="center"> 
  
- <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/257/flag-sweden_1f1f8-1f1ea.png" /> Kurser på svenska</h3>
+
  
 [<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] [Handledning i React!](https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb) <br/>
 
