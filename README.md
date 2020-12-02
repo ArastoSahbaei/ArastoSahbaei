@@ -1,3 +1,6 @@
+### Hi! 👋'
+- 💻 My name is Arasto and i work as a Fullstack consultant at Codic.
+
 <!--
  <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
