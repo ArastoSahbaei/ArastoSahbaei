@@ -1,5 +1,3 @@
-### Hi! 👋
-
 <!--
  <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
@@ -53,7 +51,7 @@
 
 
 
- <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Code with me! :star2:</h3>
+ <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> ### Hi! 👋 </h3>
 
 
 <hr/>
