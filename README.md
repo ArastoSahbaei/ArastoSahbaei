@@ -48,7 +48,7 @@
 <br />
 <br />
 
-<img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://static1.squarespace.com/static/5c6a8606797f746cd58775fb/t/5cc69bf71905f4d13a6fede2/1606900654697/?format=1500w" />
+<img align="center" alt="codeSTACKr | YouTube" width="32px" src="https://static1.squarespace.com/static/5c6a8606797f746cd58775fb/t/5cc69bf71905f4d13a6fede2/1606900654697/?format=1500w" />
 
 
  <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Hi! 👋 </h3>
