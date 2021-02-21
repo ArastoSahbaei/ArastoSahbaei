@@ -1,4 +1,6 @@
 <!--
+
+<!--
  <h1 align="center"> I'm a Husband, Father, Developer, and Teacher!! </h1>
 
 <p align="center"> - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! </p>
@@ -90,3 +92,4 @@
 [youtube]: https://youtube.com/codeSTACKr
 [nodePlaylist]: https://www.youtube.com/watch?v=-rToCU-vQLM&list=PLo-BJUIALMg_twGJ5IjJIUpXqZH-ULmx0
 [reactplaylist]: https://www.youtube.com/watch?v=MqFhEolfVAU&list=PLo-BJUIALMg---6zMWhJE7iaJ4YBSRkWb
+ -->
